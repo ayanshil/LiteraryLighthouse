@@ -1,0 +1,125 @@
+{
+  "posts": [
+    {
+      "bookname": "Three Mistakes of My Life",
+      "authorname": "Chetan Bhagat",
+      "genre": "Drama",
+      "availability": 6,
+      "id": "0d7e"
+    }
+  ],
+  "signup": [
+    {
+      "id": "1e62",
+      "name": "Sagnik Lala",
+      "email": "lala@mail.com",
+      "password": "Lala123"
+    },
+    {
+      "id": "5a51",
+      "name": "Ayan Shil",
+      "email": "ayanshil@gmail.com",
+      "password": "Ayan123"
+    },
+    {
+      "id": "343f",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "Admin123"
+    },
+    {
+      "id": "938d",
+      "name": "Ayan Shil",
+      "email": "ayanshil@gmail.com",
+      "password": "Admin123"
+    },
+    {
+      "id": "996f",
+      "name": "Disha Tarafdar",
+      "email": "dishaayan@gmail.com",
+      "password": "Ayan123"
+    }
+  ],
+  "stuffs": [
+    {
+      "id": "6e11",
+      "name": "Ayan Shil",
+      "email": "ayan@mail.com",
+      "mobile": "8918381546",
+      "city": "jalpaiguri"
+    },
+    {
+      "id": "7e23",
+      "name": "Disha Tarafder",
+      "email": "disha24@gmail.com",
+      "mobile": "8327384228",
+      "city": "Alipurduar"
+    }
+  ],
+  "issue": [
+    {
+      "id": "1e09",
+      "username": "Debo",
+      "bookname": "Three Mistakes Of Mylife",
+      "authorname": "Chetan Bhagat",
+      "checkIn": "2024-04-19T20:41",
+      "checkOut": "2024-04-19T20:41"
+    },
+    {
+      "id": "9ce8",
+      "username": "Lala",
+      "bookname": "Adventures of Sherlock Holmes",
+      "authorname": "Arthur Conan Doyle",
+      "checkIn": "2024-04-10T00:17",
+      "checkOut": "2024-04-01T21:17"
+    },
+    {
+      "id": "49b1",
+      "username": "Sagnik",
+      "bookname": "Three Mistakes Of Mylife",
+      "authorname": "Chetan Bhagat",
+      "checkIn": "2024-04-27T22:34",
+      "checkOut": "2024-05-03T22:34"
+    },
+    {
+      "id": "b1d2",
+      "username": "Ayan",
+      "bookname": "Three Mistakes of My Life",
+      "authorname": "Chetan Bhagat",
+      "checkIn": "2024-04-27T00:50",
+      "checkOut": "2024-05-03T00:51"
+    },
+    {
+      "id": "d473",
+      "username": "Ayan",
+      "bookname": "three mistakes of mylife",
+      "authorname": "chetan bhagat",
+      "checkIn": "2024-04-21T02:09",
+      "checkOut": "2024-04-25T02:09"
+    },
+    {
+      "id": "a86a",
+      "username": "Sagnik",
+      "bookname": "Game of Thrown",
+      "authorname": "Arthur Conan Doyle",
+      "checkIn": "2024-04-26T01:25",
+      "checkOut": "2024-04-26T02:25"
+    },
+    {
+      "id": "623e",
+      "username": "Sagnik",
+      "bookname": "Game of Thrown",
+      "authorname": "Arthur Conan Doyle",
+      "checkIn": "2024-05-04T01:27",
+      "checkOut": "2024-05-09T03:27"
+    },
+    {
+      "id": "4334",
+      "username": "Sagnik",
+      "bookname": "Game of Thrown",
+      "authorname": "Arthur Conan Doyle",
+      "checkIn": "2024-04-25T03:30",
+      "checkOut": "2024-05-09T02:30"
+    }
+  ]
+}
